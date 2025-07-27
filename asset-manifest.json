@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/studyhub/static/css/main.9e7ea00b.css",
+    "main.js": "/studyhub/static/js/main.502f5742.js",
+    "static/media/fa-solid-900.ttf": "/studyhub/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/fa-brands-400.ttf": "/studyhub/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/fa-solid-900.woff2": "/studyhub/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/studyhub/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/fa-regular-400.ttf": "/studyhub/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/fa-regular-400.woff2": "/studyhub/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/fa-v4compatibility.ttf": "/studyhub/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/studyhub/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/studyhub/index.html",
+    "main.9e7ea00b.css.map": "/studyhub/static/css/main.9e7ea00b.css.map",
+    "main.502f5742.js.map": "/studyhub/static/js/main.502f5742.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e7ea00b.css",
+    "static/js/main.502f5742.js"
+  ]
+}
